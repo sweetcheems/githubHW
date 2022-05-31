@@ -1,0 +1,1 @@
+Skills: basic theory, API, SQL, Client Server Architecture, Bash, mobile testing
