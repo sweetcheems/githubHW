@@ -1,7 +1,7 @@
 {
   "id": 1,
   "overview": "Main page doesn't open",
-  "preconditions": false,
+  "preconditions": "No preconditions",
   "steps_to_reproduce": 5,
   "environment": "Windows 10 x64, Mozilla Firefox 101.0"
 }
