@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-  <file_type>bug_report</file_type>
+	<id>1</id>
+	<overview>Main page doesn't open</overview>
+	<preconditions>No preconditions</preconditions>
+	<steps_to_reproduce>5</steps_to_reproduce>
+	<environment>Windows 10 x64, Mozilla Firefox 101.0</environment>
 </root>
