@@ -12,6 +12,7 @@
 3.1. Restore password with incorrect email
 3.2. Restore password with incorrect username
 3.3. Restore password with expired link
+3.4. Restore password with empty email
 
 4. Change email
 4.1 Change email with incorrect new e-mail
