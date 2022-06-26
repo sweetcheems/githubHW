@@ -1,0 +1,5 @@
+id: 1
+Overview: Main page doesn't open
+Preconditions: No preconditions
+Steps to reproduce: 5
+Environment: Windows 10 x64, Mozilla Firefox 101.0
