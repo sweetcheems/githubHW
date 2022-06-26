@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <skills>basic_theory</skills>
+  <skills>api</skills>
+  <skills>sql</skills>
+  <skills>client_server_architecture</skills>
+  <skills>bash</skills>
+  <skills>mobile_testing</skills>
+</root>
